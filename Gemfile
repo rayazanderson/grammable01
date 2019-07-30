@@ -67,7 +67,7 @@ group :development, :test do
 end
 
 ## Gemfile for Rails 3+, Sinatra, and Merb
-gem 'bootstrap', '4.0.0.alpha6'
+gem 'bootstrap', '4.3.1'
 gem 'jquery-rails'
 gem 'simple_form'
 gem 'devise'
